@@ -1,2 +1,2 @@
-# traefik-armhf
+# traefik-armhf [![Codefresh build status]( https://g.codefresh.io/api/badges/pipeline/arm_alpha/ruanbekker%2Ftraefik-armhf%2Ftraefik-armhf?branch=master&key=eyJhbGciOiJIUzI1NiJ9.NWI0NGRjNmExZDVkMDYwMDAxZDI4NWJl.npctK3AbmWlwYzvnK_U6qv-4XBNMqrEyCoGVbFPeMjY&type=cf-1)]( https://g.codefresh.io/repositories/ruanbekker/traefik-armhf/builds?filter=trigger:build;branch:master;service:5b75f5985904b8da5371a7f2~traefik-armhf)
 Traefik on ARM 
